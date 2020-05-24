@@ -1,10 +1,10 @@
 - layout: left
-  name: University Of Engineering and Technology, Vietnam Nation University.
+  name: University Of Engineering and Technology, Vietnam National University.
   dates: 2018 - Present
   qualification: BCs Information and Technology
   quote: >
     VNU University of Engineering and Technology strives to become one of the nation’s leading engineering and technology universities, one of the most advanced universities in Asia, a center of excellence, a leader in talent training, scientific research and technology transfer.
   description: | # this will include new lines to allow paragraphs
-    I have learned a lot of specialized knowledge including general subjects about programming such as object-oriented programming, data structures and algorithms, databases, computer networks, ...
-    It helps a lot in learning and updating new technologies.
-    In addition, I have been developing foreign languages including Japanese and English
+    I have learned a lot of specialized knowledge including general subjects about programming such as OOP, DSA, databases, computer networking, ...\
+    It helps a lot in learning and updating new technologies.\
+    In addition, I have been developing foreign languages including *Japanese* and *English*.\
