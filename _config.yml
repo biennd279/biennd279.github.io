@@ -5,8 +5,8 @@ favicon: images/favicon.ico
 # Personal info
 name: Nguyen, Dinh Bien
 title: Information and Technology Student
-email: bien.uet279@gmail.com
-website: https://d3s34.me/, https://ctf.d3s34.me/
+email: ctf.d3s34@gmail.com
+website: https://ctf.d3s34.me/
 
 # Social links
 #twitter_username: facespics
@@ -21,11 +21,13 @@ facebook_username: biennd.279
 # googleplus_username: +jekyll
 
 # About Section
-# about_title: About Me
+about_title:
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Bien and I'm studying for Bachelor's Degree Of Information and Technology (Orientation For Japan Market).
-
+  - 🌱 I’m currently learning at FIT, University of Engineering and Techlonogy, Vietnam National University.
+  - 💬 Ask me about Cyber Security
+  - 📫 How to reach me: ctf.d3s34@gmail.com
+  - 🕮 I'm writing blog at https://ctf.d3s34.me/, https://d3s34.me/
 
 
 # Projects Section
